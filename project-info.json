@@ -1,0 +1,24 @@
+{
+  "name": "端口扫描",
+  "type": "Android Application",
+  "package": "com.example.端口扫描",
+  "created_date": "2026-04-11",
+  "java_files": [
+    "app\\build\\gen\\port\\scan\\BuildConfig.java",
+    "app\\build\\generated\\source\\buildConfig\\release\\port\\scan\\BuildConfig.java",
+    "app\\src\\main\\java\\port\\scan\\MainActivity.java"
+  ],
+  "resource_files": [
+    "app\\proguard-resources.json",
+    "app\\build\\bin\\injected\\AndroidManifest.xml",
+    "app\\build\\intermediates\\annotation_processor_list\\release\\annotationProcessors.json",
+    "app\\build\\intermediates\\bundle_manifest\\release\\AndroidManifest.xml",
+    "app\\build\\intermediates\\compatible_screen_manifest\\release\\output-metadata.json",
+    "app\\build\\intermediates\\incremental\\mergeReleaseAssets\\merger.xml",
+    "app\\build\\intermediates\\incremental\\mergeReleaseJniLibFolders\\merger.xml",
+    "app\\build\\intermediates\\incremental\\mergeReleaseShaders\\merger.xml",
+    "app\\build\\intermediates\\incremental\\release\\mergeReleaseResources\\merger.xml",
+    "app\\build\\intermediates\\merged_manifest\\release\\AndroidManifest.xml"
+  ],
+  "total_files": 24
+}
